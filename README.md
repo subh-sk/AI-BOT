@@ -3,7 +3,5 @@
 
 > Sample Video 👇
 
-<video width="320" height="240" controls>
-  <source src="AI_BOT.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+https://user-images.githubusercontent.com/69626287/235326399-a61734bd-7025-47ae-a298-79d75399dbea.mp4
+
