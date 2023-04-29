@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "hello",
+      "answer": "hello, how may i assist you today"
+    },
+    {
+      "question": "how are you",
+      "answer": "i'm Fine and ready to help you"
+    },
+    {
+      "question": "what is the capital of india",
+      "answer": "Delhi"
+    },
+    {
+      "question": "what is your name",
+      "answer": "Developer call me NARA"
+    },
+    {
+      "question": "thanks",
+      "answer": "It's my plasure"
+    },
+    {
+      "question": "capital of france",
+      "answer": "paris"
+    }
+  ]
+}
